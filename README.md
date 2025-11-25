@@ -27,11 +27,11 @@
 ---
 
 ### ⚡ A bit about me
-I’m a Frontend Developer who enjoys building clean, responsive, and user-friendly web interfaces. I focus on writing code that is easy to understand, maintain, and scale. My work combines strong fundamentals in HTML, CSS, JavaScript, and an evolving skill set in React.js and Angular to bring ideas to life in the browser.
+- I’m a Frontend Developer who enjoys building clean, responsive, and user-friendly web interfaces. I focus on writing code that is easy to understand, maintain, and scale.    My work combines strong fundamentals in HTML, CSS, JavaScript, and an evolving skill set in React.js and Angular to bring ideas to life in the browser.
 
-I love turning concepts into interactive experiences and continuously improving how things look and feel. Along the way, I’ve also developed a solid foundation in Java, Oracle SQL/PL-SQL, AWS, and Python, helping me appreciate how the frontend connects with the rest of the system.
+- I love turning concepts into interactive experiences and continuously improving how things look and feel. Along the way, I’ve also developed a solid foundation in Java,      Oracle SQL/PL-SQL, AWS, and Python, helping me appreciate how the frontend connects with the rest of the system.
 
-I’m always exploring new techniques, sharpening my problem-solving skills through projects, and learning tools that make me a better developer every day.
+- I’m always exploring new techniques, sharpening my problem-solving skills through projects, and learning tools that make me a better developer every day.
 
 ---
 
