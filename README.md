@@ -6,7 +6,7 @@
 
 ### 🔭 I’m currently working on
 - Building interactive, responsive web applications using **HTML, CSS, JavaScript**, and **React.js**  
-- Enhancing my **E-commerce Website** and **Company Website (ARN Technologies)** projects  
+- Enhancing my **E-commerce Website** and **Company Website [(ARN Technologies)](https://arntechnologiesbyakhil.netlify.app/)** projects  
 - Enhancing my frontend development workflow and UI/UX skills
 
 ---
