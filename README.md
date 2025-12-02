@@ -36,8 +36,8 @@
 ---
 
 ### 📫 How to reach me
-- **Portfolio:** [https://portfoliobyakhil.netlify.app/](https://akhilnagulapally.com/)  
-- **LinkedIn:** [https://www.linkedin.com/in/akhil-nagulapally-2149b4370/](https://www.linkedin.com/in/akhilnagulapally9)  
+- **Portfolio:** [https://akhilnagulapally.com/](https://akhilnagulapally.com/)  
+- **LinkedIn:** [https://www.linkedin.com/in/akhilnagulapally9](https://www.linkedin.com/in/akhilnagulapally9)  
 - **Email:** akhilnagulapally9@gmail.com 
 - **GitHub:** [https://github.com/NagulapallyAkhilReddy](https://github.com/NagulapallyAkhilReddy)
 
